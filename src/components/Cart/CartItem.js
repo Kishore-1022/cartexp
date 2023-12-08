@@ -16,8 +16,7 @@ const CartItem = (props) => {
       id, 
       title,
       price,
-    }))
-    
+    })) 
   }
   return (
     <li className={classes.item}>
